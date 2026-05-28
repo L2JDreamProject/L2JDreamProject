@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Wallz">
     <img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=L2JDreamProject&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=false"/>
     <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=false"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=L2JDreamProject&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=800&hide_border=false" />
-    <img alt="Wallz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=L2JDreamProject&bg_color=000000&color=F8D866&line=808080&point=FFFFFF&area_color=ffffff&area=true&radius=10&hide_border=false" /></a>
+ <!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=800&hide_border=false" />
+   <img alt="Wallz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=L2JDreamProject&bg_color=000000&color=F8D866&line=808080&point=FFFFFF&area_color=ffffff&area=true&radius=10&hide_border=false" /></a>-->
 
 </div>
 </details>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h1 align="center">BINANCE ID: <bold>336 016 462</bold></h1>
 
 <p align="center">
-<a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/252624582593347586.png"></a><br>
+<a href="https://discord.gg/l2jdream" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/1466864070484561922.png"></a><br>
   <a href="https://www.twitch.tv/1WallzRJ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/l2jdream" target="_blank"><img src="https://img.shields.io/discord/691934366980505611?style=for-the-badge&logo=discord&logoColor=white&badge"></a></a><br>
 </p>  
